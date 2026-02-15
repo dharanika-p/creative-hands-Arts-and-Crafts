@@ -1,0 +1,45 @@
+/* Body styling */
+body {
+    background-color: lightblue;
+    font-family: 'Times New Roman';
+}
+
+/* Navigation buttons */
+button {
+    padding: 10px 20px;
+    background-color: #52ab98;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #3b8d7d;
+}
+
+/* Headings */
+h1 {
+    font-style: italic;
+}
+
+h3 {
+    color: brown;
+}
+
+/* Paragraph */
+p {
+    font-size: larger;
+    width: 80%;
+    margin: auto;
+}
+
+/* Image */
+img {
+    margin-top: 15px;
+}
+
+/* List */
+ul {
+    font-size: 18px;
+}
